@@ -1,5 +1,5 @@
-Solutions for the book: Cracking the coding interview V4. Written in C++.
+Book: [CRACKING the CODING INTERVIEW](https://www.careercup.com/book)
+Forked from: [Cracking the coding interview--问题与解答](http://hawstein.com/posts/ctci-solutions-contents.html)
 
-See the detailed solutions:
 
-<http://hawstein.com/posts/ctci-solutions-contents.html>
+
